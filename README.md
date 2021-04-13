@@ -1,1 +1,1 @@
-https://Hronnos.github.io/rsschool-cv/cv
+This is some words about me.
