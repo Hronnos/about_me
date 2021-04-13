@@ -1,1 +1,1 @@
-This is some words about me.
+This is my CV.
